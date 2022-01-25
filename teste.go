@@ -1,0 +1,4 @@
+packege main
+
+func main{
+}
